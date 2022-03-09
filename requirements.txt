@@ -1,8 +1,4 @@
 telebot
-datetime
-random
-time
 json
 requests
-sys
 threading
